@@ -1,0 +1,6 @@
+export const HOME_PATH = '/home'
+export const LOGIN_PATH = '/login'
+export const REGISTER_PATH = '/register'
+export const AUDIO_PATH = '/audio'
+export const CSV_PATH = '/csv'
+export const ROOT_PATH = '/'

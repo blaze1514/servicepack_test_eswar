@@ -1,0 +1,1 @@
+export const GOOGLE_CLIENT_ID = 'Enter your client ID'
